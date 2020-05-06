@@ -1,2 +1,3 @@
 # AcePython
-All Types of python programs will be developed for all all purposes
+My First Step to become a machine learning engineer is to learn python
+This repository contains all my assignments and materials 
