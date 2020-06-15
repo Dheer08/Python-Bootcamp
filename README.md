@@ -1,3 +1,2 @@
-# AcePython
-My First Step to become a machine learning engineer is to learn python
-This repository contains all my assignments and materials 
+# Ace Data Science 
+This repository contains all my assignments and notebooks for my course 
